@@ -246,4 +246,4 @@ the Free Software Foundation, either version 3 of the License.
 
 ---
 
-*Bu eklenti sevgi ❤️ ve çok kahve ☕ ile geliştirilmiştir.*
+*Bu eklenti Allah rızası için ❤️ ve çok fazla ☕ sallama çay içerek geliştirilmiştir.*
