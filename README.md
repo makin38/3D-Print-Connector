@@ -246,4 +246,4 @@ the Free Software Foundation, either version 3 of the License.
 
 ---
 
-*This addon was developed with love ❤️ and lots of coffee ☕.*
+*This addon was developed with love ❤️ and lots of tea ☕.*
