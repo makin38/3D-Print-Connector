@@ -109,15 +109,6 @@ The addon automatically detects Blender's unit settings:
 
 💡 Tolerance values are ALWAYS in millimeters!
 ```
-
-## 🎬 Video Examples
-
-### Basic Usage
-![Basic Usage](docs/images/basic-usage.gif)
-
-### Advanced Tolerance Settings
-![Tolerance Settings](docs/images/tolerance-settings.gif)
-
 ## 🔧 Technical Details
 
 ### Algorithm
