@@ -109,15 +109,6 @@ Eklenti otomatik olarak Blender'ın birim ayarlarını algılar:
 
 💡 Tolerans değerleri her zaman MM cinsindendir!
 ```
-
-## 🎬 Video Örnekleri
-
-### Basit Kullanım
-![Basit Kullanım](images/basic-usage.gif)
-
-### Gelişmiş Tolerans Ayarları
-![Tolerans Ayarları](images/tolerance-settings.gif)
-
 ## 🔧 Teknik Detaylar
 
 ### Algoritma
@@ -239,19 +230,6 @@ the Free Software Foundation, either version 3 of the License.
 - **Blender Foundation**: Harika 3D yazılımı için
 - **3D Printing Community**: Test ve geri bildirimler için
 - **Open Source Community**: İlham ve destek için
-
----
-
-## 📸 Ekran Görüntüleri
-
-### Ana Arayüz
-![Ana Arayüz](images/main-interface.png)
-
-### Tolerans Ayarları
-![Tolerans Ayarları](images/tolerance-settings.png)
-
-### Sonuç Örneği
-![Sonuç](images/result-example.png)
 
 ---
 
