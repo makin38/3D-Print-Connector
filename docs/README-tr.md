@@ -203,13 +203,13 @@ blender --background --python 3d-print-connector.py
 
 ## 📋 Yapılacaklar (Roadmap)
 
-### v1.4.0 (Gelecek Sürüm)
+### v1.1.0 (Gelecek Sürüm)
 - [ ] 🔄 **Batch İşleme**: Çoklu obje desteği
 - [ ] 📐 **Özel Konnektör Şekilleri**: Yuvarlak, altıgen, custom
 - [ ] 💾 **Preset Sistemi**: Tolerans ayarlarını kaydetme
 - [ ] 🎨 **Material Otomasyonu**: Baskı renkleri için otomatik material atama
 
-### v1.5.0 (Uzun Vadeli)
+### v1.2.0 (Uzun Vadeli)
 - [ ] 🤖 **AI Optimizasyon**: Otomatik tolerans önerisi
 - [ ] 📱 **Export Optimizasyonu**: STL/3MF export ayarları
 - [ ] 🔗 **Slic3r Entegrasyonu**: Direkt slicer export
