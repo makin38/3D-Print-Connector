@@ -46,7 +46,7 @@
 ~/Library/Application Support/Blender/3.x/scripts/addons/  # macOS
 ~/.config/blender/3.x/scripts/addons/  # Linux
 
-# Copy eklentim133.py to this folder
+# Copy 3d-print-connector.py to this folder
 ```
 
 ## 🚀 Quick Start
@@ -185,7 +185,7 @@ git clone https://github.com/makin38/3d-print-connector.git
 cd 3d-print-connector
 
 # Test in Blender development mode
-blender --background --python eklentim133.py
+blender --background --python 3d-print-connector.py
 ```
 
 ### Types of Contributions
