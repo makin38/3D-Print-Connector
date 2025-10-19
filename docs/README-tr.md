@@ -31,11 +31,11 @@
 
 ### Otomatik Kurulum (Önerilen)
 
-1. [Son sürümü indirin](https://github.com/makin38/3d-print-connector/releases) (`.zip` dosyası)
+1. [Son sürümü indirin](https://github.com/makin38/3D-Print-Connector/blob/master/3d-print-connector.py) (`.py` dosyası)
 2. Blender'ı açın
 3. `Edit > Preferences > Add-ons` menüsüne gidin
 4. `Install...` butonuna tıklayın
-5. İndirdiğiniz `.zip` dosyasını seçin
+5. İndirdiğiniz `.py` dosyasını seçin
 6. "3D Print Connector" eklentisini etkinleştirin ✅
 
 ### Manuel Kurulum
