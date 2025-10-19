@@ -31,11 +31,11 @@
 
 ### Automatic Installation (Recommended)
 
-1. [Download the latest release](https://github.com/makin38/3d-print-connector/releases) (`.zip` file)
+1. [Download the latest release](https://github.com/makin38/3D-Print-Connector/blob/master/3d-print-connector.py) (`.py` file)
 2. Open Blender
 3. Go to `Edit > Preferences > Add-ons`
 4. Click `Install...` button
-5. Select the downloaded `.zip` file
+5. Select the downloaded `.py` file
 6. Enable "3D Print Connector" addon ✅
 
 ### Manual Installation
