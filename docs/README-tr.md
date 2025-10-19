@@ -46,7 +46,7 @@
 ~/Library/Application Support/Blender/3.x/scripts/addons/  # macOS
 ~/.config/blender/3.x/scripts/addons/  # Linux
 
-# eklentim133.py dosyasını bu klasöre kopyalayın
+# e3d-print-connector.py dosyasını bu klasöre kopyalayın
 ```
 
 ## 🚀 Hızlı Başlangıç
@@ -185,7 +185,7 @@ git clone https://github.com/makin38/3d-print-connector.git
 cd 3d-print-connector
 
 # Blender development modunda test
-blender --background --python eklentim133.py
+blender --background --python 3d-print-connector.py
 ```
 
 ### Katkı Türleri
