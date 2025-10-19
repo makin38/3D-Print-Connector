@@ -1,7 +1,7 @@
 bl_info = {
     "name": "3D Print Connector",
     "author": "Mustafa Akin",
-    "version": (1, 3, 3),
+    "version": (1, 0, 0),
     "blender": (3, 0, 0),
     "location": "View3D > Sidebar > 3D Print Connector",
     "description": "İki objeyi birleştirmek için tenon ve mortise bağlantılar oluşturur",
