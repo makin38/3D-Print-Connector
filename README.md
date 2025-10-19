@@ -233,19 +233,6 @@ the Free Software Foundation, either version 3 of the License.
 
 ---
 
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](docs/images/main-interface.png)
-
-### Tolerance Settings
-![Tolerance Settings](docs/images/tolerance-settings.png)
-
-### Result Example
-![Result](docs/images/result-example.png)
-
----
-
 ## 🚀 Try It Now!
 
 ```bash
