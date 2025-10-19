@@ -203,13 +203,13 @@ blender --background --python 3d-print-connector.py
 
 ## 📋 Roadmap
 
-### v1.4.0 (Next Release)
+### v1.1.0 (Next Release)
 - [ ] 🔄 **Batch Processing**: Multiple object support
 - [ ] 📐 **Custom Connector Shapes**: Round, hexagonal, custom
 - [ ] 💾 **Preset System**: Save tolerance settings
 - [ ] 🎨 **Material Automation**: Auto material assignment for print colors
 
-### v1.5.0 (Long Term)
+### v1.2.0 (Long Term)
 - [ ] 🤖 **AI Optimization**: Automatic tolerance suggestions
 - [ ] 📱 **Export Optimization**: STL/3MF export settings
 - [ ] 🔗 **Slicer Integration**: Direct slicer export
